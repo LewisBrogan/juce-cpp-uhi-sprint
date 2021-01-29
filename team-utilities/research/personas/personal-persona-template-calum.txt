@@ -1,0 +1,28 @@
+--------------------------------------------
+SELLER PERSONA 
+Name: Dave
+Age: 44
+Gender: male
+Background/Job: Amateur photographer/Warehouse operative
+Likes: Art, music, good food
+Dislikes: Dishonesty, sport, bad food
+Spending habits: Most money spent on family and living costs. Has little disposable income so spends wisely.
+Pain points: Would like to earn extra income from his photography hobby. He is a competent photographer but has nowhere to showcase his talents. Can not afford an expensive selling platform. Does not have a large portfolio. Has little time to expand his photography interest as it currently doesn't pay.
+
+Needs: An inexpensive, accessible yet simple to use platform that he can showcase his skill rather than a considerable portfolio as a dedicated professional might have. Doesn't have time to spend submitting images via a complicated system. Would like to make money passivley.
+
+--------------------------------------------
+BUYER PERSONA
+Name: Sarah
+Age: 22
+Gender: Female
+Background/Job: Self-employed web designer
+Likes: Social media - pintrest, instagram, motorcycling
+Dislikes: Complicated technology, adverts
+Spending habits: Still lives at home and has a decent salary meaning that she has plenty disposable income which is usually spent on socialising and status symbols.
+Pain points: Struggles to find affordable material without having to pay expensive subscriptions. Her clients are mostly small businesses do not want or expect to pay for content! Current content platforms are clunky and complicated due to unintuative ux and further hampered by excessive advertising.
+
+Needs: An affordable, 'pay as you go' platform that is quick and simple. Did I mention affordable? or even free! Although without advertising, how could this be possible?
+
+
+

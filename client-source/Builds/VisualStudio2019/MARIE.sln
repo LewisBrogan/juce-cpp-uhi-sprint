@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MARIE - App", "MARIE_App.vcxproj", "{B7B1E5AE-355F-FF0B-EF0F-EB78DAA6D5A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B1E5AE-355F-FF0B-EF0F-EB78DAA6D5A2}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B1E5AE-355F-FF0B-EF0F-EB78DAA6D5A2}.Debug|x64.Build.0 = Debug|x64
+		{B7B1E5AE-355F-FF0B-EF0F-EB78DAA6D5A2}.Release|x64.ActiveCfg = Release|x64
+		{B7B1E5AE-355F-FF0B-EF0F-EB78DAA6D5A2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

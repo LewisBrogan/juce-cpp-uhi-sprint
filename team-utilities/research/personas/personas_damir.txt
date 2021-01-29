@@ -1,0 +1,37 @@
+--------------------------------------------
+SELLER PERSONA 
+Name: Glen
+Age:31
+Gender: Male
+Background/Job: 10 years as a Photoshop drone for various Marketing companies 
+Likes: money
+Dislikes: his job
+Spending habits: as needed
+Pain points: Market oversaturation.
+
+
+
+Needs: His work to be seen.
+
+
+
+
+--------------------------------------------
+BUYER PERSONA
+Name: Brenda
+Age:20
+Gender: Female
+Background/Job: Fine arts student
+Likes: free stuff
+Dislikes: computers
+Spending habits: mostly broke
+Pain points: struggles to find relevant reference pictures.
+Have to jump between lots of pages.
+ Got only two hands, can either draw or use her computer.
+
+
+
+Needs: Lots of reference pictures, very easy to use/search trough. Zero learning curve.
+
+
+

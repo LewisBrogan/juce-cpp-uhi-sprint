@@ -1,0 +1,39 @@
+--------------------------------------------
+SELLER PERSONA 
+Name: Iam McLovin
+Age: 25
+Gender: Male
+Background/Job: Digital Artist/Freelancer
+Likes: A lot of freedom working freelance, summer, pet dog
+Dislikes: Early mornings during winter.
+Spending habits: Monthly subscriptions for tools, online advertising for work, prefers purchasing online
+Pain points:
+-Financial problems due to vast competition
+-Struggle with increased tool advancements (constant software updates/upgrades)
+-Stuggling with marketing to reach customers
+-Only making enough to keep bills paid
+
+Needs:
+-A way to target customers without spending huge amount of money (within budget)
+-X amount of work sold per month/Job offers
+-A platform to not get underbid on
+-
+--------------------------------------------
+BUYER PERSONA
+Name: Mary McDoe
+Age: 35
+Gender: Female
+Background/Job: Game Designer
+Likes: Winter, pet cat, titanic
+Dislikes: spam calls
+Spending habits: Prefer shopping in store when it's quiet
+Pain points:
+-Hard to find quality work for a specific product without searchihg through multiple sites/profiles
+-Spending too much outside there budget, wanting to reduce spending
+-Too much filtering needed to find the product needed
+
+Needs:
+-Easier way to find the product
+-More realistic prices
+-Reliable sources for future purchasing/ongoing work
+-Easier communication between both parties

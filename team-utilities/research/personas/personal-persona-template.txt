@@ -1,0 +1,69 @@
+--------------------------------------------
+SELLER PERSONA 
+Name: Mary Trump
+Age: 19
+Gender: Female
+
+Background/Job:
+Amateur Photographer and Videomaker
+
+Likes:
+Car photography
+Street Photography
+Social Medias
+
+Dislikes:
+Photo Galleries
+Writing
+
+Spending habits:
+Camera Components
+Music stuff
+
+Pain points:
+People stealing her pictures
+Having to spend lots of money before having an actual return
+
+
+Needs:
+An easy to use application capable of helping her earning from her passions
+Personal Branding
+
+
+
+--------------------------------------------
+BUYER PERSONA
+Name:
+James
+
+Age:
+32
+
+Gender:
+Male
+
+Background/Job:
+Texture Artist
+
+Likes:
+Playing VideoGames
+Reading self-development books
+
+Dislikes:
+Bureaucracy
+Wasting time waiting for processes to finish
+
+Spending habits:
+Videogames
+Online courses
+
+Pain points:
+Waste time searching on google for images that suits his needs
+Organize his files in a manageable way
+
+Needs:
+Find a high variety of references in a short amount of time
+Create consistent presentations for his references in a short amount of time
+Organize his board in a user friendly way, easy to search through and to manage
+
+
